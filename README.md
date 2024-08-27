@@ -1,0 +1,2 @@
+# tecnicas-computacionais
+projeto alura 
